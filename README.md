@@ -1,6 +1,6 @@
 <pre>
 ╔═════════════════════════════════════════════════════════════════════════════════════════════════════════╗
-║                                    TESTES UNITÁRIOS COM JAVASCRIPT E JEST                               ║
+║                                  TESTES UNITÁRIOS COM JAVASCRIPT E JEST                                 ║
 ╚═════════════════════════════════════════════════════════════════════════════════════════════════════════╝
 </pre>
 Projeto de estudo de testes unitários com funções de validação de cadastro de usuário, utilizando JavaScript e Jest.
